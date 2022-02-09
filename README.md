@@ -6,6 +6,8 @@ This project was part of a sensitization programme to inform students in my univ
 *Requirements*
 
  - You will need a linux OS with hostapd and dnsmasq installed
+ -   `$ sudo apt-get install hostapd`
+ -    `$ sudo apt-get install dnsmasq`
  - The website was made with Flask so ou will need to have python installed
  
  *Running the Project*
